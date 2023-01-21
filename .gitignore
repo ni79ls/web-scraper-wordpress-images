@@ -9,6 +9,7 @@ __pycache__/
 # Additional folders
 extracted-images/
 _uploaded/
+.DS_Store
 *.xml
 
 # Distribution / packaging
