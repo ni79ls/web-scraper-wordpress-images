@@ -2,6 +2,8 @@
 
 This script will help you to migrate posts, pages including a large volume of images from one Wordpress site to another without the use of any (paid) Wordpress migration plug-ins.
 
+The full Medium article is available [here](https://medium.com/gitconnected/free-large-volume-wordpress-site-to-site-migration-of-images-and-posts-d5b3e6cdb71d)
+
 **Prerequisites:**
 
 1. You have exported the posts, pages, comments, ... from your current Wordpress site via the standard `Wordpress Tools -> Export` functionality
